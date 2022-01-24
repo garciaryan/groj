@@ -15,6 +15,7 @@ export default function App() {
           name="Home"
           component={HomeScreen}
           options={{
+            tabBarShowLabel: false,
             tabBarIcon: () => (
               <Icon name="home" type="font-awesome" />
             )
@@ -23,6 +24,7 @@ export default function App() {
           name="Profile"
           component={ProfileScreen}
           options={{
+            tabBarShowLabel: false,
             tabBarIcon: () => (
               <Icon name="user" type="font-awesome" />
             )
