@@ -1,0 +1,13 @@
+{
+    "message": {
+        "code": 0,
+        "message": "ok",
+        "credentials": "valid",
+        "version": "v3.0.0",
+        "endpoint": "image",
+        "counter": 3
+    },
+    "data": {
+        "image": "http://downloads.innova.com/polk-vehicle-images/CAC40MAC171B121001.jpg"
+    }
+}

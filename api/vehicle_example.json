@@ -1,0 +1,19 @@
+{
+    "message": {
+        "code": 0,
+        "message": "ok",
+        "credentials": "valid",
+        "version": "v3.0.0",
+        "endpoint": "decode",
+        "counter": 2
+    },
+    "data": {
+        "year": 2016,
+        "make": "MAZDA",
+        "model": "3",
+        "manufacturer": "FORD",
+        "engine": "L4, 2.0L; DOHC; 16V; DI",
+        "trim": "SPORT",
+        "transmission": "STANDARD"
+    }
+}
